@@ -1,0 +1,16 @@
+db1ab7208c98da53a69ccf53fdd77519 *DESCRIPTION
+489f4d8a1cf776aa685fd45e29fe9ee8 *NAMESPACE
+0f52ead09bf3f1ac2ef66256e9e93ba6 *R/intcure.r
+33f957e7f5b5d8c97e721c2106853f59 *data/bmt.rda
+0b874a83daef41feb51c054309da7560 *data/bmtfit.rda
+e3319ed61f1b3e8f55fea0d3bbc61150 *data/simdata.rda
+3e90270c5850b97dd4c890ae4d2b86af *man/basesurvfun.Rd
+9266d2a33d3fd5dd794774f208b4452d *man/bmt.Rd
+b195ea1fdfa4ce94dd6c0420bf8decca *man/bmtfit.Rd
+5e7a31e61dd3bb8327c55b097e4f5228 *man/coef.intcure.Rd
+40989226197819b4f7a1abec5a502692 *man/intcure-package.Rd
+2d294378ecae5f64dd95f5791b3f5161 *man/intcure.Rd
+901dbfb3bc7a6bc578352b92f02527a4 *man/print.intcure.Rd
+9d15ff415b8cd3929816cfff010939e1 *man/print.summary.intcure.Rd
+7bf5e2cf29caa1e3645c05d441a2da46 *man/simdata.Rd
+841129f049300dc08cda1fd5ff9449cf *man/summary.intcure.Rd
